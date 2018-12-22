@@ -1,0 +1,21 @@
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\bin\Debug\Neutron Star Stealer.exe
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\bin\Debug\Neutron Star Stealer.pdb
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\bin\Debug\Neutron Star Stealer.xml
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\obj\Debug\Neutron_Star_Stealer.Form1.resources
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\obj\Debug\Neutron_Star_Stealer.Resources.resources
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\obj\Debug\Neutron Star Stealer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\obj\Debug\Neutron Star Stealer.exe
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\obj\Debug\Neutron Star Stealer.xml
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Neutron Star Stealer\obj\Debug\Neutron Star Stealer.pdb
+E:\VB Projects\Neutron Star Stealer\obj\Debug\ResolveAssemblyReference.cache
+E:\VB Projects\Neutron Star Stealer\obj\Debug\Neutron Star Stealer.vbproj.GenerateResource.Cache
+E:\VB Projects\Neutron Star Stealer\bin\Debug\Neutron Star Spammer.exe
+E:\VB Projects\Neutron Star Stealer\bin\Debug\Neutron Star Spammer.pdb
+E:\VB Projects\Neutron Star Stealer\bin\Debug\Neutron Star Spammer.xml
+E:\VB Projects\Neutron Star Stealer\obj\Debug\Neutron_Star_Spammer.Form1.resources
+E:\VB Projects\Neutron Star Stealer\obj\Debug\Neutron_Star_Spammer.GlassButton.resources
+E:\VB Projects\Neutron Star Stealer\obj\Debug\Neutron_Star_Spammer.Resources.resources
+E:\VB Projects\Neutron Star Stealer\obj\Debug\Neutron Star Spammer.exe
+E:\VB Projects\Neutron Star Stealer\obj\Debug\Neutron Star Spammer.xml
+E:\VB Projects\Neutron Star Stealer\obj\Debug\Neutron Star Spammer.pdb

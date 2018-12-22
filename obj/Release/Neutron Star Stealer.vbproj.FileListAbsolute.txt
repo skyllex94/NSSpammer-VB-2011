@@ -1,0 +1,10 @@
+E:\VB PROjects\Neutron Star Stealer\obj\Release\Neutron Star Stealer.vbproj.GenerateResource.Cache
+E:\VB Projects\Neutron Star Stealer\bin\Release\Neutron Star Spammer.exe
+E:\VB Projects\Neutron Star Stealer\bin\Release\Neutron Star Spammer.pdb
+E:\VB Projects\Neutron Star Stealer\bin\Release\Neutron Star Spammer.xml
+E:\VB Projects\Neutron Star Stealer\obj\Release\Neutron_Star_Spammer.Form1.resources
+E:\VB Projects\Neutron Star Stealer\obj\Release\Neutron_Star_Spammer.GlassButton.resources
+E:\VB Projects\Neutron Star Stealer\obj\Release\Neutron_Star_Spammer.Resources.resources
+E:\VB Projects\Neutron Star Stealer\obj\Release\Neutron Star Spammer.exe
+E:\VB Projects\Neutron Star Stealer\obj\Release\Neutron Star Spammer.xml
+E:\VB Projects\Neutron Star Stealer\obj\Release\Neutron Star Spammer.pdb
